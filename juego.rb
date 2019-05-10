@@ -47,5 +47,5 @@ if usuario=='piedra' || usuario=='papel'|| usuario=='tijera'
         end
     end
 else
-    puts "Ingreso incorrecto, seleccione piedra, papel o tijera(en minúsculas)"
+    puts "Argumento inválido: Debe ser piedra, papel o tijera."
 end
