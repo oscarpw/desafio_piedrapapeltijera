@@ -1,6 +1,6 @@
 ingreso_usuario=ARGV
 usuario=ingreso_usuario[0]
-cpu=rand(2)
+cpu=rand(3)
 
 # 0 = Piedra
 # 1 = Papel
